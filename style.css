@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    border: 120px solid black;
+    border-top: 0px;
+    background-color: gold;
+     }
+    
+    .title h1 {
+      font-size: 90px;
+      background-color: black;
+      color: gold;
+      
+    }
+    
+    .title h3 {
+        font-size: 70px;
+        padding-top:20px;
+        padding-bottom:30px;
+        margin:0;
+    }
+    
+    label {
+        font-size: 22px;
+        width: 100px;
+        display: inline-block; 
+    }
+    
+    input {
+       width: 150px;
+       display: inline-block; 
+    }
+    
+    .form-container {
+       padding: 20px;
+       font-size: 20px; 
+    }
+       
+    p {
+      font-size: 30px;
+    }
+    
+    h3{
+      font-size:40px;
+    }
+    
+    
